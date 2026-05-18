@@ -1,6 +1,5 @@
 <h1 align="center"> Olá! Eu sou o João Victor | Hi! I'm João Victor 👋🏻</h1>
-<h3 align="center">Sou um aficionado estudante de Ciência da Computação</h3>
-<p align="center"> Tenho uma profunda admiração pela forma como a tecnologia molda nosso mundo e estou sempre fascinado pela complexidade e eficácia das soluções tecnológicas que impulsionam nossa era digital. Busco cultivar um constante crescimento intelectual, à procura de novas oportunidades de aprendizado e desenvolvimento.</p>
+<p align="center"> Atualmente atuo como Engenheiro de Dados Júnior, com 1 ano e 9 meses de experiência na área. Sou apaixonado por engenharia de dados, arquiteturas modernas e aprendizado contínuo, sempre buscando evoluir tecnicamente e explorar novas tecnologias, padrões e soluções da Modern Data Stack.</p>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/joao-v-fernandes/" target="_blank"><img align="center" alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -16,12 +15,14 @@
 <h3 align="center">Tecnologias/ Technologies 💻</h3>
 
 <div style="display: inline_block" align="center"><br/>
-  <img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
-  <img align="center" alt="spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
-  <img align="center" alt="kotlin" src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white">
-  <img align="center" alt="figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">
-  <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img align="center" alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-  <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+  <img align="center" alt="python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff">
+  <img align="center" alt="java" src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white">
+  <img align="center" alt="spring" src="https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff">
+  <img align="center" alt="aws" src="https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900.svg?logo=aws&logoColor=white">
+  <img align="center" alt="apache airflow" src="https://img.shields.io/badge/Apache%20Airflow-017CEE?logo=apacheairflow&logoColor=fff">
+  <img align="center" alt="apache spark" src="https://img.shields.io/badge/Apache%20Spark-E25A1C?logo=apachespark&logoColor=fff">
+  <img align="center" alt="etl" src="https://custom-icon-badges.demolab.com/badge/ETL-9370DB?logo=etl-logo&logoColor=fff">
+  <img align="center" alt="docker" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff">
+  <img align="center" alt="grafana" src="https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white">
+  <img align="center" alt="kibana" src="https://img.shields.io/badge/Kibana-005571?logo=kibana&logoColor=fff">
 </div>
