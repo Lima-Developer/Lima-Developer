@@ -10,7 +10,6 @@
 <br/>
 
 <div align="center">
-  <img height="170em" width="400em" src="https://github-stats-extended.vercel.app/api?username=Lima-Developer&layout=compact&theme=tokyonight"/>
   <img height="170em" width="400em" src="https://github-stats-extended.vercel.app/api?username=Lima-Developer&show_icons=true&theme=tokyonight"/>
 </div>
 
