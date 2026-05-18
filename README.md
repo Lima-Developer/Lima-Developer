@@ -10,8 +10,8 @@
 <br/>
 
 <div align="center">
-  <img height="170em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lima-Developer&layout=compact&theme=tokyonight"/>
-  <img height="170em" width="400em" src="https://github-readme-stats.vercel.app/api?username=Lima-Developer&show_icons=true&theme=tokyonight"/>
+  <img height="170em" width="400em" src="https://github-stats-extended.vercel.app/api?username=Lima-Developer&layout=compact&theme=tokyonight"/>
+  <img height="170em" width="400em" src="https://github-stats-extended.vercel.app/api?username=Lima-Developer&show_icons=true&theme=tokyonight"/>
 </div>
 
 <h3 align="center">Tecnologias/ Technologies 💻</h3>
